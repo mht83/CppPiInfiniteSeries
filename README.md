@@ -51,30 +51,3 @@ This project is open source and available under the MIT License.
 ## Acknowledgments
 
 * This code was inspired by the mathematical work on infinite series for Pi approximation.
-* Special thanks to all contributors who have helped refine the algorithm.
-
-
-The program will output the value of Pi after performing the calculation with the specified number of iterations.
-
-## Understanding the Code
-
-The program calculates Pi using the Gregory-Leibniz series:
-
-$$\pi = 4 \times \sum_{i=1}^{n} \frac{(-1)^{i+1}}{(2i-1)}$$
-
-where `n` is the number of terms in the series. In this implementation, `n` is set to 100,000,000.
-
-## Contributing
-
-Contributions to improve the accuracy or performance of the Pi calculation are welcome. Please feel free to fork the repository and submit a pull request.
-
-## Authors
-
-* **mht83** 
-
-
-## Acknowledgments
-
-* This code was inspired by the mathematical work on infinite series for Pi approximation.
-
-
